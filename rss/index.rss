@@ -1,8 +1,67 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Miracle In Sunday</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.6</generator><lastBuildDate>Sun, 26 Jul 2015 02:25:55 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>How to setup this blog</title><description>&lt;p&gt;Hello friends,&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Miracle In Sunday</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.6</generator><lastBuildDate>Wed, 29 Jul 2015 16:24:21 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>博弈论</title><description>&lt;blockquote&gt;
+  &lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;TIME&lt;/strong&gt;: Sat.2015-08-01 4:00 PM 📅&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;LOCATION&lt;/strong&gt;: TBD&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SPEAKER&lt;/strong&gt;：BILL&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;How to setup this blog, just read this &lt;a href="https://stefanscherer.github.io/setup-ghost-for-github-pages/," title="ghost for github"&gt;post&lt;/a&gt;.&lt;/p&gt;</description><link>http://localhost:2368/how-to-setup-this-blog/</link><guid isPermaLink="false">cd138638-e175-4ec4-b4f4-c04d12c69bec</guid><dc:creator>clay4er</dc:creator><pubDate>Sat, 25 Jul 2015 12:54:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2015/07/sundsvall.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2015/07/sundsvall.jpg" alt="How to setup this blog"&gt;&lt;p&gt;Hello friends,&lt;/p&gt;
+&lt;h1 id="gametheory"&gt;博弈论基础(Game Theory)&lt;/h1&gt;
 
-&lt;p&gt;How to setup this blog, just read this &lt;a href="https://stefanscherer.github.io/setup-ghost-for-github-pages/," title="ghost for github"&gt;post&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list&lt;/p&gt;</description><link>http://localhost:2368/welcome-to-ghost/</link><guid isPermaLink="false">d7943b55-bd82-45eb-bb43-9872332762d5</guid><category>Getting Started</category><dc:creator>clay4er</dc:creator><pubDate>Sat, 25 Jul 2015 01:41:31 GMT</pubDate><content:encoded>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
+&lt;h2 id="startfromagame"&gt;Start from a game.&lt;/h2&gt;
+
+&lt;p&gt;In an exam, two students you and your partner, both of you have two choice α and β. If you choose α and your partner chooses α, then you get score B-. If&lt;/p&gt;</description><link>http://localhost:2368/bo-yi-lun/</link><guid isPermaLink="false">2af7dba3-d98e-49da-ae32-0835b3df168d</guid><category>博弈论</category><dc:creator>clay4er</dc:creator><pubDate>Wed, 29 Jul 2015 16:00:36 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+  &lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;TIME&lt;/strong&gt;: Sat.2015-08-01 4:00 PM 📅&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;LOCATION&lt;/strong&gt;: TBD&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SPEAKER&lt;/strong&gt;：BILL&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id="gametheory"&gt;博弈论基础(Game Theory)&lt;/h1&gt;
+
+&lt;h2 id="startfromagame"&gt;Start from a game.&lt;/h2&gt;
+
+&lt;p&gt;In an exam, two students you and your partner, both of you have two choice α and β. If you choose α and your partner chooses α, then you get score B-. If you choose α and your partner chooses β, then you get score A. If you choose β and your partner chooses α, then you get score C. If you choose β and your partner chooses β, you’ll get B+. So what is your best strategy to get good score?&lt;/p&gt;
+
+&lt;h2 id="angelandevil"&gt;Angel and Evil (天使与恶魔的博弈)&lt;/h2&gt;
+
+&lt;h2 id="fourlessonfromgametheory"&gt;Four Lesson From Game Theory&lt;/h2&gt;
+
+&lt;p&gt;1 Do not play a dominated strategy. &lt;br&gt;
+2 Rational choice can lead to bad outcome. &lt;br&gt;
+3 You can get what you want till you know what you want. &lt;br&gt;
+4 Put yourself in other’s shoes and try to figure out what they will do.&lt;/p&gt;
+
+&lt;h2 id="prisonersdilemma"&gt;Prisoner’s Dilemma (囚徒困境)&lt;/h2&gt;
+
+&lt;p&gt;两个共谋犯罪的人被关入监狱，不能互相沟通情况。如果两个人都不揭发对方，则由于证据不确定，每个人都坐牢一年；若一人揭发，而另一人沉默，则揭发者因为立功而立即获释，沉默者因不合作而入狱五年；若互相揭发，则因证据确实，二者都判刑两年，请问囚犯如何选择对自己最有利？&lt;/p&gt;
+
+&lt;h2 id="thedefinitionofgame"&gt;The definition of Game.&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Players  &lt;/li&gt;
+&lt;li&gt;Strategy  &lt;/li&gt;
+&lt;li&gt;Payoffs&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id="modelofpolitics"&gt;Model of Politics (政治选举策略)&lt;/h2&gt;
+
+&lt;p&gt;一个国家之中，人民的政治信仰大致可分为10种， 左倾主义与右倾主义处在两个极端，处在中间的有8种均匀分布，人数各占10%。有两个候选人要进行总统选举，其中最重的一环节是要表明自己的政治信仰立场。人民普遍倾向于选举跟自己立场相近的候选人。为了赢得选举，候选人应该选择什么政治信仰作为自己的立场？&lt;/p&gt;
+
+&lt;h1 id=""&gt;德州扑克游戏&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;游戏规则  &lt;/li&gt;
+&lt;li&gt;参与游戏 &lt;br&gt;
+注：到时，我会带筹码和扑克牌过来&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;PS：所有内容均来自 耶鲁大学博弈论公开课 前三课内容&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title>How to setup this blog</title><description>&lt;p&gt;Hello friends,&lt;/p&gt;
+
+&lt;p&gt;How to setup this blog, just read this &lt;a href="https://stefanscherer.github.io/setup-ghost-for-github-pages/" title=", ghost for github"&gt;post&lt;/a&gt;.&lt;/p&gt;</description><link>http://localhost:2368/how-to-setup-this-blog/</link><guid isPermaLink="false">cd138638-e175-4ec4-b4f4-c04d12c69bec</guid><dc:creator>clay4er</dc:creator><pubDate>Sat, 25 Jul 2015 12:54:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2015/07/sundsvall.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2015/07/sundsvall.jpg" alt="How to setup this blog"&gt;&lt;p&gt;Hello friends,&lt;/p&gt;
+
+&lt;p&gt;How to setup this blog, just read this &lt;a href="https://stefanscherer.github.io/setup-ghost-for-github-pages/" title=", ghost for github"&gt;post&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list&lt;/p&gt;</description><link>http://localhost:2368/welcome-to-ghost/</link><guid isPermaLink="false">d7943b55-bd82-45eb-bb43-9872332762d5</guid><category>Getting Started</category><dc:creator>clay4er</dc:creator><pubDate>Sat, 25 Jul 2015 01:41:31 GMT</pubDate><content:encoded>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
 
 &lt;h2 id="gettingstarted"&gt;Getting Started&lt;/h2&gt;
 
